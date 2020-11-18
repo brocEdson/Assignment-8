@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Broc Edson
+ * Assignment 8
+ * Manages the processes of the game
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;

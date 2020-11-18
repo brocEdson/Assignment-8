@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Broc Edson
+ * Assignment 8
+ * Governs target behavior
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
